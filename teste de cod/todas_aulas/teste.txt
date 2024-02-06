@@ -1,0 +1,11 @@
+tryetc.pytryetc.pytryetc.pytryetc.pySQL
+python
+c++
+java script
+node
+kotlin
+php
+jango
+java
+SQL
+SQL
